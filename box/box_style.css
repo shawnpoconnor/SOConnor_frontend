@@ -1,17 +1,17 @@
 #boxes {
-	width  :  100%;
-    }
+    width  :  100%;
+}
     
 #one {
-	position         :  absolute;
-	height           :  100%;
+    position         :  absolute;
+    height           :  100%;
     width            :  100%;
     background-color :  green;
     z-index          :  -1;
 }
 
 #two {
-	position          :  absolute;
+    position          :  absolute;
     width             :  66%;
     height            :  66%;
     margin-left       :  16%;
@@ -21,7 +21,7 @@
 }
 
 #three {
-	position          :  absolute;
+    position          :  absolute;
     width             :  33%;
     height            :  33%;
     margin-left       :  32%;
@@ -34,5 +34,5 @@
 }
 
 h1 {
-	text-align  :  center;
+    text-align  :  center;
 }

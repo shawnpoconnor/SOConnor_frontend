@@ -1,0 +1,38 @@
+#boxes {
+	width  :  100%;
+    }
+    
+#one {
+	position         :  absolute;
+	height           :  100%;
+    width            :  100%;
+    background-color :  green;
+    z-index          :  -1;
+}
+
+#two {
+	position          :  absolute;
+    width             :  66%;
+    height            :  66%;
+    margin-left       :  16%;
+    background-color  :  gray;
+    z-index           :  0;
+
+}
+
+#three {
+	position          :  absolute;
+    width             :  33%;
+    height            :  33%;
+    margin-left       :  32%;
+    background-color  :  blue;
+    z-index           :  1;
+}
+
+.centered {
+    bottom  :  0;
+}
+
+h1 {
+	text-align  :  center;
+}
